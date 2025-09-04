@@ -2,37 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>HiskiH blooog</title><link>http://example.com/blog/index.html</link>
 <description>Testing and documenting</description><language>en</language>
-<lastBuildDate>Thu, 04 Sep 2025 16:04:19 +0300</lastBuildDate>
-<pubDate>Thu, 04 Sep 2025 16:04:19 +0300</pubDate>
+<lastBuildDate>Thu, 04 Sep 2025 16:14:51 +0300</lastBuildDate>
+<pubDate>Thu, 04 Sep 2025 16:14:51 +0300</pubDate>
 <atom:link href="http://example.com/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
-Title on this line
+Thesis Origins
 </title><description><![CDATA[
 
-<p>The rest of the text file is a <strong>Markdown</strong> blog post. The process will continue
-as soon as you exit your editor.</p>
+<p>Welcome to my journey to write my Master's thesis on tabletop roleplaying games. There isn't much to say at this time but I am required to start with a short summary of my intial topic, so here goes:
+Enemy Balance in B/X-Derivative OSR Tabletop Roleplaying Games</p>
 
-<p>Tags: <a href='tag_keep-this-tag-format.html'>keep-this-tag-format</a>, <a href='tag_tags-are-optional.html'>tags-are-optional</a>, <a href='tag_beware-with-underscores-in-markdown.html'>beware-with-underscores-in-markdown</a>, <a href='tag_example.html'>example</a></p>
+<p>OSR (old-school revival, renaissance or revolution) is a philosophical movement focused on playing and creating tabletop roleplaying games that recreate the gameplay experience of early editions of Dungeons &amp; Dragons. A core tenet of this movement is disregard for mathematical balance in enemy design which makes it difficult for new designers to create games and content for this audience. As these games are highly derivative of the original versions of Dungeons &amp; Dragons this thesis studies the similarities and differences in enemy design between these games and their original inspirations.</p>
 
+<p>Let's see how this goes</p>
+
+<p>Tags: <a href='tag_thesis.html'>thesis</a>, <a href='tag_osr.html'>osr</a></p>
 <!-- text end -->
-]]></description><link>http://example.com/blog/title-on-this-line.html</link>
-<guid>http://example.com/blog/./title-on-this-line.html</guid>
+]]></description><link>http://example.com/blog/thesis-origins.html</link>
+<guid>http://example.com/blog/./thesis-origins.html</guid>
 <dc:creator>Hiski Huovila</dc:creator>
-<pubDate>Thu, 04 Sep 2025 16:00:51 +0300</pubDate></item>
-<item><title>
-First past the post
-</title><description><![CDATA[
-
-<p>The rest of the text file is a <strong>Markdown</strong> blog post. The process will continue
-as soon as you exit your editor.</p>
-
-<p>Tags: <a href='tag_test.html'>test</a></p>
-<h1>whoa</h1>
-
-
-<!-- text end -->
-]]></description><link>http://example.com/blog/first-past-the-post.html</link>
-<guid>http://example.com/blog/./first-past-the-post.html</guid>
-<dc:creator>Hiski Huovila</dc:creator>
-<pubDate>Thu, 04 Sep 2025 13:58:21 +0300</pubDate></item>
+<pubDate>Thu, 04 Sep 2025 16:14:39 +0300</pubDate></item>
 </channel></rss>
