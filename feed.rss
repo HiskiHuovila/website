@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
-<channel><title>HiskiH blooog</title><link>http://example.com/blog/index.html</link>
-<description>Testing and documenting</description><language>en</language>
-<lastBuildDate>Thu, 04 Sep 2025 16:14:51 +0300</lastBuildDate>
-<pubDate>Thu, 04 Sep 2025 16:14:51 +0300</pubDate>
-<atom:link href="http://example.com/blog/feed.rss" rel="self" type="application/rss+xml" />
+<channel><title>HiskiH blooog</title><link>https://blog.hiskih.fi/index.html</link>
+<description>Testing and documenting</description><language>en</language>
+<lastBuildDate>Thu, 04 Sep 2025 19:03:41 +0300</lastBuildDate>
+<pubDate>Thu, 04 Sep 2025 19:03:41 +0300</pubDate>
+<atom:link href="https://blog.hiskih.fi/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Thesis Origins
 </title><description><![CDATA[
@@ -17,9 +17,22 @@ Enemy Balance in B/X-Derivative OSR Tabletop Roleplaying Games</p>
 <p>Let's see how this goes</p>
 
 <p>Tags: <a href='tag_thesis.html'>thesis</a>, <a href='tag_osr.html'>osr</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- text end -->
-]]></description><link>http://example.com/blog/thesis-origins.html</link>
-<guid>http://example.com/blog/./thesis-origins.html</guid>
+]]></description><link>https://blog.hiskih.fi/thesis-origins.html</link>
+<guid>https://blog.hiskih.fi/./thesis-origins.html</guid>
 <dc:creator>Hiski Huovila</dc:creator>
 <pubDate>Thu, 04 Sep 2025 16:14:39 +0300</pubDate></item>
 </channel></rss>
